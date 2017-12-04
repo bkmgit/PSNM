@@ -8,7 +8,8 @@
     %theta(x,y,0)=exp(-2.0*((4*pi*(xx-0.25)).^2+(4*pi*(zz-0.25)).^2));
 % internal heating function
 % sin(4*pi*xx+4*pi*zz)
-
+%
+% Draws on work on "Infinte prandtl convection on the 2D torus" by Doering, Muite and Whitehead (forthcoming)
 clear all; format compact; format short; clc; clf;
  
 Re=100;%Reynolds number
