@@ -9,6 +9,8 @@
 % divergence free subspace. Initial work on this has been done with Damian
 % San Roman Alerigi
 %
+% Draws on work on "Infinte prandtl convection on the 2D torus" by Doering, Muite and Whitehead (forthcoming)
+%
 % For plotting, the program uses vol3d, which is available at:
 %
 % http://www.mathworks.com/matlabcentral/fileexchange/22940-vol3d-v2
